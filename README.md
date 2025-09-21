@@ -12,15 +12,12 @@ Game ini dibuat untuk latihan logika, pengembangan aplikasi Android, dan hiburan
 ## 🖼️ Screenshot
 ![main](https://github.com/user-attachments/assets/c26b27ea-d076-423e-8167-2b233f0030d9)
 
-
 ## 🚀 Instalasi & Cara Main
-Clone repository ini:
-git clone https://github.com/username/tebak-angka-android.git
-Buka project di Android Studio.
-Jalankan aplikasi pada emulator atau perangkat Android.
-Mulai bermain dengan menebak angka 1–100!
+1. Unduh aplikasi pada rilis v1.0
+2. Instal pada perangkatmu
+3. Mulai bermain dengan menebak angka 1–100!
 
 ## 🛠️ Teknologi yang Digunakan
-1. Java untuk logika game.
-2. Android Studio sebagai IDE.
-3. XML untuk desain UI.
+1. Java
+2. Android Studio
+3. XML
